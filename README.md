@@ -1,5 +1,12 @@
 # FileForge 🛠️
 
+<div align="center">
+  
+  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+  [![Python](https://img.shields.io/badge/Python-3.6+-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+
+</div>
+
 ## ✨ Why FileForge?
 
 | Feature | Description | Benefit |
@@ -64,6 +71,7 @@ python app.py
 | ZIP Extract | ⚡ 5x faster | 🟢 Low |
 | Node Clean | ⚡ Instant | 🟢 Low |
 
+## Solo Contributions
 <div align="center">
   Made with ❤️ by Rivalcoder
 </div> 
